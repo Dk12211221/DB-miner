@@ -1,22 +1,18 @@
-# 📚 QuoteVerse – A Colorful Motivational Quotes App
+# 📱 Quotes App
 
-QuoteVerse is a beautifully designed Flutter app that displays inspirational and categorized quotes. Users can browse, search, favorite, and manage quotes using a clean and modern UI with both dark and light themes.
+A beautifully designed Flutter application that provides users with daily inspirational quotes to uplift their mood, fuel creativity, and provide motivation throughout the day.
 
 ## ✨ Features
 
-- 🔥 100+ curated motivational quotes
-- 🌙 Light/Dark theme support
-- ❤️ Mark/unmark quotes as favorite
-- 🔍 Search quotes by category
-- 📝 Add your own quotes
-- 🗃️ Local SQLite database storage
-- ⚡ Smooth animations & modern design
-- 🚫 Offline support – no internet needed
+- 📝 **Daily Quotes** – Get a new inspirational quote every day.
+- 💾 **Save Favorites** – Bookmark your favorite quotes for quick access.
+- 🎨 **Custom UI** – Clean, responsive, and elegant design using Flutter.
+- 🌙 **Dark/Light Theme** – Toggle between light and dark mode for a comfortable reading experience.
+- 🔍 **Quote Categories** – Filter quotes by category (e.g., Motivation, Life, Love, Success).
 
 ## 🛠️ Tech Stack
 
-- **Flutter** (with GetX for navigation & state)
-- **SQLite** for persistent local storage
+- **Flutter** 
 - **SharedPreferences** for favorites
 - **Dart** programming language
 
